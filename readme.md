@@ -1,4 +1,4 @@
-# playsetup-tui
+# Play ADB
 
 An ADB Command Center with a Terminal User Interface (TUI) built using [Textual](https://textual.textualize.io/). This tool allows you to manage multiple Android devices, perform batch installations/uninstallations, and handle wireless debugging directly from your terminal.
 
