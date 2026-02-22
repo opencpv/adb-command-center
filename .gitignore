@@ -1,0 +1,9 @@
+
+/env
+/apks
+/__pycache__
+history.json
+registry.json
+*ssh
+*ssh.pub
+.DS_Store
